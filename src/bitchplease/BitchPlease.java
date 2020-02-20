@@ -10,7 +10,8 @@ public class BitchPlease {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hi tryna study");
-        System.out.println("Simran is hooooottttt");
+        System.out.println("Simran is SO hooooottttt");
+        //Seriously im cray cray for her vay vay
     }
     
 }
