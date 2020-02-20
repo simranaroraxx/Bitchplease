@@ -14,5 +14,7 @@ public class BitchPlease {
         //Seriously im cray cray for her vay vay
         //Really
     }
-    
+    public void useMe(){
+       System.out.println("k");
+    }
 }
